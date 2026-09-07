@@ -1,6 +1,6 @@
 # Define two numbers using variables
 a = 10
-b = 3
+b = 30
 
 # Basic operations
 addition = a + b        # 13
